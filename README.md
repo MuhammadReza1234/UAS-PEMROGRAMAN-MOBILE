@@ -50,8 +50,6 @@ https://github.com/MuhammadReza1234/UAS-PEMROGRAMAN-MOBILE/assets/115516607/3b7d
 ### Activity Scrollice
 Activity Scrollice menampilkan sebuah artikel berjudul **"Kasus Sianida"** yang bisa di-scroll.
 
-<img src= https://github.com/MuhammadReza1234/UAS-PEMROGRAMAN-MOBILE/assets/115516607/5432bbd2-167d-49c6-8adf-4cc068c017b5 width="250px" height="500px">
-
 <img src= https://github.com/MuhammadReza1234/UAS-PEMROGRAMAN-MOBILE/assets/115516607/61077ff8-4e30-4c01-aeec-1878f6cd3542 width="250px" height="500px">
 
 ---
