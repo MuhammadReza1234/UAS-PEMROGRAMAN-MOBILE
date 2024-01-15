@@ -8,12 +8,13 @@
 
 # Soal
 
-![IMG_20240115_184900](https://github.com/rniarzz/UAS-PEMROGRAMAN-MOBILE/assets/115542704/29cf6ab1-1595-40e1-bbeb-659c968d515c)
+![IMG_20240115_184900](https://github.com/MuhammadReza1234/UAS-PEMROGRAMAN-MOBILE/assets/115516607/20759e4e-812e-4229-8428-a223ff7f35bf)
 
 ---
 
 # Link
-## <img src= https://github.com/rniarzz/UAS-PEMROGRAMAN-MOBILE/assets/115542704/7d514402-6620-4464-9ba4-40d5c853b368 width="100px" height="80px"><br> [Link Tutorial PDF](https://drive.google.com/file/d/16EynYbX9KR7p5pnpCB_AJpL3Uxqk5icT/view?usp=drivesdk)
+## <img src= https://github.com/rniarzz/UAS-PEMROGRAMAN-MOBILE/assets/115542704/7d514402-6620-4464-9ba4-40d5c853b368 width="100px" height="80px"><br> [Link Tutorial PDF](https://github.com/MuhammadReza1234/UAS-PEMROGRAMAN-MOBILE/assets/115516607/53a52a96-75cb-4696-ad1f-d94d55aaaf22)
+
 
 ---
 
