@@ -1,4 +1,4 @@
-<h1 <p align='center'> Tugas Pemrograman Mobile</h1><br>
+<h1 <p align='center'> Uas Pemrograman Mobile</h1><br>
 
 | Nama |       NIM       | Kelas |
 |------------|---------|--------|
