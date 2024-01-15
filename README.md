@@ -28,7 +28,7 @@ Menu ini berisi Project sebagai berikut:
 - Intent Maps
 - Activity Fragment
 
-<img src= https://github.com/rniarzz/UAS-PEMROGRAMAN-MOBILE/assets/115542704/1f04d617-ab61-4209-b07a-6f83a34edc69 width="250px" height="500px">
+<img src= https://github.com/MuhammadReza1234/UAS-PEMROGRAMAN-MOBILE/assets/115516607/ca9aebc1-1c15-45ce-a5f0-4f2d7770f495  width="250px" height="500px">
 
 ---
 
