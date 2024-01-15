@@ -13,7 +13,7 @@
 ---
 
 # Link
-## <img src= https://github.com/rniarzz/UAS-PEMROGRAMAN-MOBILE/assets/115542704/7d514402-6620-4464-9ba4-40d5c853b368 width="100px" height="80px"><br> [Link Tutorial PDF](https://drive.google.com/file/d/1EnlozjuNXqGGprtUAkYevHKLv871ISLM/view?usp=drivesdk)
+## <img src= https://github.com/rniarzz/UAS-PEMROGRAMAN-MOBILE/assets/115542704/7d514402-6620-4464-9ba4-40d5c853b368 width="100px" height="80px"><br> [Link Tutorial PDF](https://drive.google.com/file/d/16EynYbX9KR7p5pnpCB_AJpL3Uxqk5icT/view?usp=drivesdk)
 
 ---
 
