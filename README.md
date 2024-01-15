@@ -1,4 +1,4 @@
-<h1 <p align='center'> Uas Pemrograman Mobile</h1><br>
+<h1 <p align='center'> UAS Pemrograman Mobile</h1><br>
 
 | Nama |       NIM       | Kelas |
 |------------|---------|--------|
@@ -82,5 +82,6 @@ Untuk Activity Maps ini program akan memanggil intent dari google maps dan akan 
 ## Activity Fragment
 Activity Fragment menampilkan beberapa tab yang berisi fragment yang berbeda-beda dan jika gambarnya di-klik maka akan menyetel video dari exoplayer.
 
+https://github.com/MuhammadReza1234/UAS-PEMROGRAMAN-MOBILE/assets/115516607/cbf6244f-9120-42e9-85ba-2d66b4ed4f75
 
 <h1 <p align="center"><b>======== Sekian Terima Kasih ==========</b></p></h1>
