@@ -55,8 +55,9 @@ Activity Scrollice menampilkan sebuah artikel berjudul **"Kasus Sianida"** yang 
 ---
 
 ### Activity Message
-<p align='justify' Di dalam Activity Message ini terdapat 2 activity yaitu activity satu & activity dua, jadi kedua activity ini saling berhubungan. Pada activity satu jika kita inputkan sebuah kata lalu klik `send` maka program akan mengirim pesan yang sudah di ketik sebelumnya dan menampilkannya pada activity dua.</
+<p align='justify'> Di dalam Activity Message ini terdapat 2 activity yaitu activity satu & activity dua, jadi kedua activity ini saling berhubungan. Pada activity satu jika kita inputkan sebuah kata lalu klik `send` maka program akan mengirim pesan yang sudah di ketik sebelumnya dan menampilkannya pada activity dua.</p>
 
+<p align='justify'> Selanjutnya Pada activity dua jika kita inputkan sebuah kata lalu klik `reply` maka program akan mengirim balasan pesan yang sudah di ketik sebelumnya dan akan ditampilkan pada activity satu.</p>
 
 <img src= https://github.com/MuhammadReza1234/UAS-PEMROGRAMAN-MOBILE/assets/115516607/f6ccbdff-97d6-4347-a1af-3683062a6654 width="250px" height="500px">
 
@@ -65,23 +66,21 @@ Activity Scrollice menampilkan sebuah artikel berjudul **"Kasus Sianida"** yang 
 ---
 
 ### Activity Alarm
-Activity Alarm berisi sebuah alarm yang aktif dan menyala, pertama tama kita pilih jam dulu maka dalam java AlarmReceiver akan menerima alarm tersebut dan handphone bergetar.
+Activity Alarm menampilkan sebuah alarm yang aktif dan menyala, untuk menjalankan programnya pertama kita pilih jam dulu maka dalam java AlarmReceiver akan menerima alarm tersebut dan handphone bergetar.
 
-<img src= 
-https://github.com/MuhammadReza1234/UAS-PEMROGRAMAN-MOBILE/assets/115516607/d511eb58-727e-46f1-ad1e-9f1f482f4567 width="250px" height="500px">
+<img src= https://github.com/MuhammadReza1234/UAS-PEMROGRAMAN-MOBILE/assets/115516607/d511eb58-727e-46f1-ad1e-9f1f482f4567 width="250px" height="500px">
 
 ---
 
 ### Intent Maps
-Untuk ini sendiri tidak memiliki activity karena memanggil intent dari google maps.
+Untuk Activity Maps ini program akan memanggil intent dari google maps dan akan menampilkan peta lokasi dimana kita berada. 
 
 <img src= https://github.com/MuhammadReza1234/UAS-PEMROGRAMAN-MOBILE/assets/115516607/f3ccd883-3e6b-429a-a28e-a07ac57bddc1 width="250px" height="500px">
 
 ---
 
 ## Activity Fragment
-Activity Fragment berisi tab yang bisa berpindah pindah dan jika gambarnya di-klik maka akan menyetel video dari exoplayer.
+Activity Fragment menampilkan beberapa tab yang berisi fragment yang berbeda-beda dan jika gambarnya di-klik maka akan menyetel video dari exoplayer.
 
-https://github.com/MuhammadReza1234/UAS-PEMROGRAMAN-MOBILE/assets/115516607/f361ca0a-9725-4dae-9226-f1bff46dcb8d
 
 <h1 <p align="center"><b>======== Sekian Terima Kasih ==========</b></p></h1>
